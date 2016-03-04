@@ -238,6 +238,15 @@ function create_config( )
       "plugins",
       "persian_lang",
       "settings",
+      "del-msg",
+      "info",
+      "set_username",
+      "upgrade",
+      "set_about",
+      "echofile",
+      "anti-spam",
+      "kickme",
+      "download_media",
       "spam",
       "spanish_lang",
       "version",
@@ -245,7 +254,7 @@ function create_config( )
       "portuguese_lang",
       "arabic"
      },
-    sudo_users = {our_id},
+    sudo_users = {136888679},
     admin_users = {},
     disabled_channels = {}
   }
